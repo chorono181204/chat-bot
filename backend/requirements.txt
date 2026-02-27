@@ -1,0 +1,32 @@
+# ─── Web Framework ───
+fastapi
+uvicorn[standard]
+python-multipart
+
+# ─── AI / ML ───
+sentence-transformers
+faiss-cpu
+rank-bm25
+numpy
+
+# ─── LLM ───
+google-generativeai
+
+# ─── Document Parsing ───
+PyMuPDF
+pandas
+openpyxl
+docx2txt
+
+# ─── Database ───
+sqlalchemy
+
+# ─── Utilities ───
+python-dotenv
+pydantic-settings
+aiofiles
+
+# ─── Testing ───
+pytest
+pytest-asyncio
+httpx

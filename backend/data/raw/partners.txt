@@ -1,0 +1,21 @@
+1. Nhóm đối tác chiến lược trong nước
+Đây là các doanh nghiệp hỗ trợ trực tiếp trong việc thực tập, tuyển dụng và xây dựng phòng lab nghiên cứu:
+
+Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT): Đối tác chiến lược toàn diện, cung cấp môi trường thực tập và cơ hội việc làm ưu tiên cho sinh viên.
+
+Tập đoàn Viettel: Hợp tác sâu rộng trong đào tạo nguồn nhân lực chất lượng cao và các dự án nghiên cứu quốc phòng, an ninh mạng.
+
+Tập đoàn FPT: Thường xuyên phối hợp tổ chức các ngày hội việc làm (Job Fair) và tài trợ học bổng cho sinh viên ngành CNTT.
+
+MobiFone: Hợp tác trong các chương trình đào tạo ngắn hạn và phát triển hạ tầng số.
+
+2. Nhóm đối tác công nghệ quốc tế
+Học viện sở hữu nhiều phòng Lab chung (Joint Lab) với các tập đoàn công nghệ hàng đầu thế giới:
+
+Samsung (SRV): Hợp tác thông qua chương trình Samsung Talent Program (STP), tài trợ phòng Lab và cấp học bổng kèm cam kết việc làm.
+
+Naver (Hàn Quốc): Hợp tác xây dựng trung tâm nghiên cứu AI và phát triển chương trình đào tạo về trí tuệ nhân tạo.
+
+Qualcomm: Tài trợ cho các hoạt động nghiên cứu về 5G và các dự án khởi nghiệp trong Học viện.
+
+Amazon Web Services (AWS): Hỗ trợ hạ tầng đám mây cho sinh viên thực hành và cấp chứng chỉ quốc tế.
